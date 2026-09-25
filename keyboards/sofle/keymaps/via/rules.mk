@@ -1,0 +1,12 @@
+VIA_ENABLE = yes
+TRI_LAYER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+WPM_ENABLE = yes
+SRC += bongocat.c
+
+SPACE_CADET_ENABLE = no
+GRAVE_ESC_ENABLE = no
+MAGIC_ENABLE = no
+
+
+
